@@ -16,3 +16,5 @@ backend/.env.*
 node_modules
 .next/
 .DS_Store
+__pycache__/
+*.pyc
